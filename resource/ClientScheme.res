@@ -757,7 +757,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "HL2MP"
+				"name"  "Klaxons"
 				"tall"  "46"
 				"weight" "0"
 				"additive" "0"
@@ -768,7 +768,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HalfLife2"
+				"name"		"Klaxons"
 				"tall"		"128"
 				"weight"	"0"
 				"antialias" "1"
@@ -791,7 +791,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HalfLife2"
+				"name"		"Klaxons"
 				"tall"		"48"
 				"weight"	"0"
 				"antialias" "1"
@@ -1578,6 +1578,7 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"1"		"resource/HL2MP.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
+		"3"     "resource/Klaxons.otf"
 	}
 
 }
