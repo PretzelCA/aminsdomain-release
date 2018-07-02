@@ -1,3 +1,6 @@
 
 cfg/config.cfg
 cfg/config.cfg
+*.tmp
+*.cache
+textwindow_temp.html
